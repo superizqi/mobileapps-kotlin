@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    build-mode="COLD"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.0.0"
+    timestamp="1535605242253"
+    token="-4101862651084716094"
+    verifier="CLASS_ADDED" >
+
+    <task
+        name="javac"
+        duration="19" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="60" />
+    <task
+        name="verifier"
+        duration="20" />
+
+    <artifact
+        location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\RPH\Android\HelloKotlin\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1535604171029"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1535604729235"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1535605242253"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\RPH\Android\HelloKotlin\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c9494f14a7f5c604e90d0bf1915a319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6fb09b4d3d1e9549ebf3c62c24594199\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6741cb61a6d127bc4b7b23087d5e6431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\4fb07648ec5cc824b1b094d143f691b2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c33f7defcc068b5cfc53c595dba493a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c366ca539ac32226020ed7780eea74d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\77c421a88a552bcc201e969d04bd43fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8c27515765f1a29b66273f28b115fbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f170cfbb4d45ab3e5c9ee8b3a9178b17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0d85420003eec49eb5c3795a9f00e5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\a43c6b68608776c251ebd71163d09ac8\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02f73f63e723b7f1a51f7b81a5bb1733\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0208a2ac189919a34d85e12e58f96ed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\69bda288c78a9118fa7868ff65d4c315\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51a8d84bc635160ffc4a147090755ddc\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6fb09b4d3d1e9549ebf3c62c24594199\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6fb09b4d3d1e9549ebf3c62c24594199\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\4fb07648ec5cc824b1b094d143f691b2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\4fb07648ec5cc824b1b094d143f691b2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\a43c6b68608776c251ebd71163d09ac8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\a43c6b68608776c251ebd71163d09ac8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:11:9-40
+activity#id.ceolabs.hellokotlin.MainActivity
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c9494f14a7f5c604e90d0bf1915a319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c9494f14a7f5c604e90d0bf1915a319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6fb09b4d3d1e9549ebf3c62c24594199\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6fb09b4d3d1e9549ebf3c62c24594199\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6741cb61a6d127bc4b7b23087d5e6431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6741cb61a6d127bc4b7b23087d5e6431\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\4fb07648ec5cc824b1b094d143f691b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\4fb07648ec5cc824b1b094d143f691b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c33f7defcc068b5cfc53c595dba493a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c33f7defcc068b5cfc53c595dba493a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c366ca539ac32226020ed7780eea74d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c366ca539ac32226020ed7780eea74d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\77c421a88a552bcc201e969d04bd43fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\77c421a88a552bcc201e969d04bd43fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8c27515765f1a29b66273f28b115fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8c27515765f1a29b66273f28b115fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f170cfbb4d45ab3e5c9ee8b3a9178b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f170cfbb4d45ab3e5c9ee8b3a9178b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0d85420003eec49eb5c3795a9f00e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0d85420003eec49eb5c3795a9f00e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\a43c6b68608776c251ebd71163d09ac8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\a43c6b68608776c251ebd71163d09ac8\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02f73f63e723b7f1a51f7b81a5bb1733\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02f73f63e723b7f1a51f7b81a5bb1733\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0208a2ac189919a34d85e12e58f96ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0208a2ac189919a34d85e12e58f96ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\69bda288c78a9118fa7868ff65d4c315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\69bda288c78a9118fa7868ff65d4c315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51a8d84bc635160ffc4a147090755ddc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ganteng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51a8d84bc635160ffc4a147090755ddc\AndroidManifest.xml:20:5-44
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		ADDED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\RPH\Android\HelloKotlin\app\src\main\AndroidManifest.xml
